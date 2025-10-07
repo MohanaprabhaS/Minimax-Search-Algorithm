@@ -101,10 +101,8 @@ def minimax(game)
         return scores[min_score_index]
     end
 end
-<h3>Program:</h3>
+##Program
 ```
-
-
 import time
 
 class Game:
@@ -266,6 +264,9 @@ if __name__ == "__main__":
     main()
 
 ```
+
+
+
 <hr>
 <h2>Sample Input and Output</h2>
 
